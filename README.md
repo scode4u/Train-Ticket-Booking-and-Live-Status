@@ -71,8 +71,8 @@ Status     : Confirmed ✔
 - Implement **Graphical User Interface (GUI)**.
 - Introduce **PNR Status Checking System**.
 
-## Contributors
-- **[Suryansh Singh]** - Developer
+## Contributors - Developers
+- **[Suryansh Singh]** - 
 -   Harhit Rana
 -   Chirag Arora
 -   Vansh Rajput
